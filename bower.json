@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "dist/app.js",
+  "authors": [
+    "Connor Dodge"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cdodge89/Portfolio",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.3",
+    "angular-ui-router": "^0.2.18"
+  }
+}
